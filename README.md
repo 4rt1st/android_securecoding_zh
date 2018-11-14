@@ -1,5 +1,3 @@
-#android_securecoding_zh  
-
 > 来源：https://www.jssec.org/dl/android_securecoding.pdf
 
 Androidアプリのセキュア设计·セキュアコーディングガイド
